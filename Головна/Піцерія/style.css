@@ -84,16 +84,33 @@ nav {
     transition: background-color 0.3s;
 }
 
+.call-butt{
+    opacity: 0.3;
+}
+
+.menu-butt{
+opacity: 0.3;
+}
+
 .call-butt:hover,
 .menu-butt:hover {
     background-color: #ff6b6b;
+    opacity: 1;
+    transition: 1.5s opacity;
 }
+
 
 .info-img {
     width: 300px;
     max-width: 100%;
     border-radius: 20px;
     margin-top: 20px;
+    opacity: 0.3;
+}
+
+.info-img:hover{
+    opacity: 1;
+    transition: 1.5s opacity;
 }
 
 /* Меню */
@@ -125,6 +142,12 @@ nav {
 .menu-img {
     width: 200px;
     border-radius: 15px;
+    opacity: 0.3;
+}
+
+.menu-img:hover{
+    opacity: 1;
+    transition: 1.5s opacity;
 }
 
 .menu-info {
@@ -160,6 +183,7 @@ nav {
 .order:hover {
     background-color: #ff6b6b;
     opacity: 1;
+    transition: 1.5s opacity;
 }
 
 /* Акції */
