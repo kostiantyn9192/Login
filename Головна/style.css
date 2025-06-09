@@ -133,7 +133,13 @@ left: 780px;
 top: 348px;
 
 background: url(image.png);
+box-shadow: 2px #000000;
 
+}
+
+.img1:hover{
+  box-shadow: 0 10px 5px 0 navy, 0 20px 5px 0 mediumaquamarine;
+    transition: 1.5s opacity,linear;
 }
 
 .vier{
@@ -322,6 +328,11 @@ background: url(channels4_profile.jpg);
 
 }
 
+.Domer:hover{
+    box-shadow: 0 10px 5px 0 navy, 0 20px 5px 0 mediumaquamarine;
+    transition: 1.5s opacity,linear;
+}
+
 .text3{
   /* Домер */
 
@@ -350,9 +361,15 @@ width: 331px;
 height: 331px;
 left: 130px;
 top: 2938px;
+ 
 
 background: url(kurbun.jpg);
 
+}
+
+.kurbun:hover{
+   box-shadow: 0 10px 5px 0 navy, 0 20px 5px 0 mediumaquamarine;
+    transition: 1.5s opacity,linear;
 }
 
 .text4{
