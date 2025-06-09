@@ -1,0 +1,672 @@
+#greeting {
+      position: absolute;
+      top: 150px;
+      right: 10px;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      font-size: 18px;
+    }
+   
+.pro_mene{
+position: absolute;
+width: 451px;
+height: 129px;
+left: 23px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #0DFF00;
+}
+
+.moi_pisni{
+position: absolute;
+width: 467px;
+height: 112px;
+left: 241px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #00FF55;
+
+}
+
+header{
+  position: absolute;
+width: 1380px;
+height: 111px;
+left: -20px;
+top: 0px;
+
+background: #231DD7;
+}
+
+nav a{
+  text-decoration: none;
+  justify-content: center;
+  border-radius: 15%;
+
+}
+
+
+body{
+position: relative;
+width: 1280px;
+height: 4900px;
+overflow-y: scroll;
+
+background: rgba(236, 243, 36, 0.75);
+}
+
+.eins{
+
+position: absolute;
+width: 691px;
+height: 77px;
+left: 400px;
+top: 210px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+
+.zwei{
+
+position: absolute;
+width: 215px;
+height: 56px;
+left: 295px;
+top: 400px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+
+.drei{
+
+position: absolute;
+width: 574px;
+height: 152px;
+left: 146px;
+top: 559px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+}
+
+.img1{
+
+position: absolute;
+width: 303px;
+height: 404px;
+left: 780px;
+top: 348px;
+
+background: url(image.png);
+
+}
+
+.vier{
+/* Мої улюблена пісня */
+
+position: absolute;
+width: 737px;
+height: 67px;
+left: 433px;
+top: 852px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #08e708;
+
+
+
+}
+
+.youtube1{
+  /* Rectangle 12 */
+
+position: absolute;
+width: 561px;
+height: 305px;
+left: 15px;
+top: 986px;
+
+background: #D9D9D9;
+
+}
+
+.youtube2{
+  /* Rectangle 13 */
+
+position: absolute;
+width: 561px;
+height: 305px;
+left: 15px;
+top: 1405px;
+
+background: #D9D9D9;
+
+}
+
+.youtube3{
+  /* Rectangle 14 */
+
+position: absolute;
+width: 561px;
+height: 305px;
+left: 15px;
+top: 1824px;
+
+background: #D9D9D9;
+
+
+}
+
+.funf{
+  /* Воїни Світла */
+
+position: absolute;
+width: 392px;
+height: 149px;
+left: 691px;
+top: 1106px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+
+.moi_blogeri{
+
+
+position: absolute;
+width: 508px;
+height: 124px;
+left: 614px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #02FF28;
+
+
+}
+
+.img2{
+  /* image 5 */
+
+position: absolute;
+width: 176px;
+height: 122px;
+left: 1063px;
+top: 0px;
+
+background: url(image.png);
+
+}
+
+.secks{
+  /* Europapa */
+
+position: absolute;
+width: 576px;
+height: 145px;
+left: 752px;
+top: 1585px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+
+.text1{
+  /* espresso macchiato */
+
+position: absolute;
+width: 439px;
+height: 124px;
+left: 690px;
+top: 1969px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+
+.text2{
+  /* Мої улюбленні ютубери */
+
+position: absolute;
+width: 716px;
+height: 165px;
+left: 413px;
+top: 2347px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+.Domer{
+  /* channels4_profile 1 */
+
+position: absolute;
+width: 331px;
+height: 331px;
+left: 130px;
+top: 2450px;
+
+background: url(channels4_profile.jpg);
+
+}
+
+.text3{
+  /* Домер */
+
+position: absolute;
+width: 532px;
+height: 151px;
+left: 640px;
+top: 2579px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+
+.kurbun{
+ /* фото канала 1 */
+
+position: absolute;
+width: 331px;
+height: 331px;
+left: 130px;
+top: 2938px;
+
+background: url(kurbun.jpg);
+
+}
+
+.text4{
+  /* Курбuн (це я) */
+
+position: absolute;
+width: 479px;
+height: 140px;
+left: 616px;
+top: 3067px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+
+.vidguku{
+  /* Відгуки */
+
+position: absolute;
+width: 184px;
+height: 60px;
+left: 1063px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #02FF28;
+
+
+}
+
+.vidguku1{
+  /* Відгуки */
+
+position: absolute;
+width: 555px;
+height: 94px;
+left: 528px;
+top: 3330px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+
+.Andrey{
+  /* image 2 */
+
+position: absolute;
+width: 224px;
+height: 224px;
+left: 18px;
+top: 3453px;
+
+background: url(image.png);
+
+}
+
+.Andrey_name{
+  /* Андрей2208 */
+
+position: absolute;
+width: 236px;
+height: 31px;
+left: 258px;
+top: 3460px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+
+.Andrey_text{
+  /* Цей сайт дуже класний. Я також люблю цих ютуберів. Також пісні дуже класні. Однозначно 5 звезд. */
+
+position: absolute;
+width: 511px;
+height: 133px;
+left: 273px;
+top: 3516px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.Star1{
+/* images-removebg-preview 1 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 273px;
+top: 3565px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star2{
+/* images-removebg-preview 2 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 376px;
+top: 3565px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star3{
+/* images-removebg-preview 3 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 474px;
+top: 3565px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star4{
+/* images-removebg-preview 4 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 572px;
+top: 3565px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star5{
+/* images-removebg-preview 5 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 663px;
+top: 3565px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star6{
+/* images-removebg-preview 6 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 273px;
+top: 3860px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star7{
+/* images-removebg-preview 7 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 379px;
+top: 3860px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star8{
+/* images-removebg-preview 8 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 485px;
+top: 3860px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Star9{
+/* images-removebg-preview 9 */
+
+position: absolute;
+width: 95px;
+height: 95px;
+left: 591px;
+top: 3860px;
+
+background: url(images-removebg-preview.png);
+
+}
+
+.Paukov{
+  /* image 3 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 18px;
+top: 3744px;
+
+background: url(image.png);
+
+}
+
+.Paukov_name{
+  /* Пауков666 */
+
+position: absolute;
+width: 309px;
+height: 59px;
+left: 258px;
+top: 3744px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+
+.Paukov_text{
+  /* Сайт треба трішки доробити але сайт класний. :) */
+
+position: absolute;
+width: 565px;
+height: 105px;
+left: 257px;
+top: 3814px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+
+.Pizza{
+  /* image 4 */
+
+position: absolute;
+width: 447px;
+height: 458px;
+left: 50px;
+top: 4050px;
+
+background: url(Піца.png);
+
+}
+
+.Pizza_text{
+  /* Нажміть на цей текст щоб дізнатися що це таке на зображенні. */
+
+position: absolute;
+width: 714px;
+height: 332px;
+left: 549px;
+top: 4179px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+text-decoration: none;
+
+color: #000000;
+
+
+}
